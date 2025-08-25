@@ -26,8 +26,6 @@
 Our consultants come from industry leaders including:
 - **Google** • **Meta** • **Amazon** • **Microsoft** • **Apple**
 
-Many hold advanced degrees including **PhDs**, bringing both deep theoretical knowledge and proven real-world experience to every project.
-
 ## 🎯 Unmatched Flexibility
 
 We adapt to your unique needs:
